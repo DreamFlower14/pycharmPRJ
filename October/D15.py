@@ -2,7 +2,7 @@
 age = 23
 color = "purple"
 print(f"나는 {age}살이며 {color}색을 좋아합니다")
-print(f"나는 {age}살이며 {color}색을 좋아합니다".format(age, coler))
+print(f"나는 {age}살이며 {color}색을 좋아합니다".format(age, color))
 print("나는 {0}살이며 {1}색을 좋아합니다".format(23, "보라"))
 
 # 문자열 메소드
